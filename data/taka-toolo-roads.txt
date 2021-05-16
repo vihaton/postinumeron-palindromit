@@ -1,0 +1,118 @@
+Auroranportti
+Eino Leinon katu
+Hammarskjöldintie
+Heikinniementie
+Humalistonkatu
+Humalistonkuja
+Itäinen Pukkisaari
+Johannesbergintie
+Kajanuksenkatu
+Kesärannantie
+Lastenlinnantie
+Linnankoskenkatu
+Lääkärinkatu
+Mannerheimintie
+Mechelininkatu
+Meilahdentie
+Merikannontie
+Messeniuksenkatu
+Mikael Lybeckin katu
+Minna Canthin katu
+Missisipinraitti
+Mäntymäentie
+Mäntyniementie
+Nordenskiöldinkatu
+Nordenskiöldinpolku
+Oksakoskenpolku
+Paasikivenkatu
+Paavo Nurmen kuja
+Paavo Nurmen tie
+Paciuksenkatu
+Palkkatilankatu
+Paulankatu
+Pohjoinen Stadiontie
+Päivärinnankatu
+Rajasaarenpenger
+Rajasaarentie
+Reijolankatu
+Ruusankatu
+Ruusulankatu
+Sallinkatu
+Savilankatu
+Seurasaarentie
+Seurasaari
+Sibeliuksenkatu
+Stenbäckinkatu
+Tahkontie
+Tallbonkuja
+Tamminiementie
+Tavaststjernankatu
+Toivonkatu
+Topeliuksenkatu
+Tukholmankatu
+Töölönkatu
+Töölöntullinkatu
+Urheilukatu
+Valhallankatu
+Vauhtitie
+Veturitie
+Zaidankatu
+Auroraporten
+Barnets Borgs väg
+Bjällbovägen
+Eino Leinos gata
+Ekuddsvägen
+Fartvägen
+Fölisön
+Fölisövägen
+Grejusgatan
+Hammarskjöldsvägen
+Hindersnäsvägen
+Hummelgatan
+Hummelgränd
+Idrottsgatan
+Johannesbergsvägen
+Kajanusgatan
+Linnankoskigatan
+Lokvägen
+Läkaregatan
+Löneboställsgatan
+Mannerheimvägen
+Mechelingatan
+Mejlansvägen
+Merikantovägen
+Messeniusgatan
+Mikael Lybecks gata
+Minna Canths gata
+Mississippisträket
+Nordenskiöldsgatan
+Nordenskiöldsstigen
+Norra Stadionvägen
+Oksakoskistigen
+Paasikivigatan
+Paavo Nurmis gränd
+Paavo Nurmis väg
+Paciusgatan
+Paulagatan
+Päivärintagatan
+Rosagatan
+Rosavillagatan
+Råholmsbanken
+Råholmsvägen
+Salligatan
+Savilagatan
+Sibeliusgatan
+Stenbäcksgatan
+Stockholmsgatan
+Tahkovägen
+Tallbackavägen
+Tallbogränden
+Talluddsvägen
+Tavaststjernagatan
+Toivogatan
+Topeliusgatan
+Tölögatan
+Tölötullsgatan
+Valhallagatan
+Zaidagatan
+Östra Bockholmen 
